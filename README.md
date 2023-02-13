@@ -1,2 +1,2 @@
 # Machine-Learning-Side-Project
-Dacon competition codes
+Competition codes
