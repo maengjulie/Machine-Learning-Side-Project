@@ -1,2 +1,2 @@
 # Machine-Learning-Side-Project
-Competition codes
+Competition codes, numbered in order of creation
